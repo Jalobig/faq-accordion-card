@@ -19,10 +19,18 @@
   //// Dividers
 
   --color-gray-light: hsl(240, 5%, 91%);
+
+  //// Box-Shadow
+  --default-shadow : 0 1.5rem 3rem var(--color-heading);
 }
 
 body {
   margin: 0;
   font-family: "Kumbh Sans", sans-serif;
-  
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  @media only screen and (max-width:1200px) {
+    display: block;
+  }
 }
