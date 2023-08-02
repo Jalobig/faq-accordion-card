@@ -1,0 +1,28 @@
+:root {
+  // // Colors
+  /// Primary
+  //// Text
+
+  --color-heading-dark: hsl(238, 29%, 16%);
+  --color-heading: hsl(237, 12%, 33%);
+  --color-text: hsl(240, 6%, 50%);
+
+  // Links
+
+  --color-accent: hsl(14, 88%, 65%);
+
+  //// Gradient
+
+  --gradient-top-right: hsl(273, 75%, 66%);
+  --gradient-bottom-left: hsl(240, 73%, 65%);
+
+  //// Dividers
+
+  --color-gray-light: hsl(240, 5%, 91%);
+}
+
+body {
+  margin: 0;
+  font-family: "Kumbh Sans", sans-serif;
+  
+}
