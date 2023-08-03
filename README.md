@@ -7,6 +7,7 @@ This is a solution to the [FAQ accordion card challenge on Frontend Mentor](http
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
+  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [Continued development](#continued-development)
@@ -27,6 +28,12 @@ Users should be able to:
 
 ![Desktop design](desktop-design.jpg)
 ![Mobile design](mobile-design.jpg)
+
+
+### Links
+- Solution URL: [Solution](https://github.com/Jalobig/faq-accordion-card)
+- Live Site URL: [FAQ_Accordion_Card](https://jalobig.github.io/faq-accordion-card/)
+
 
 ## My process
 
